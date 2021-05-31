@@ -315,8 +315,9 @@
     .intro-content,
     .grid {
         grid-template-columns: 1fr;
-    }
 
+    }
+    
     .gallery-img {
         width: 100%;
         max-width: 100%;
@@ -381,4 +382,18 @@
     .menu-spacing {
         display: none;
     }
-}
+
+    .intro-text h2 {
+        font-size: 3rem;
+    }
+
+    h2 {
+        font-size: 3rem;
+    }
+
+    .intro-content {
+        display: block;
+    }
+
+}  
+
